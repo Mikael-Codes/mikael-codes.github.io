@@ -1,5 +1,5 @@
 const canvas=document.querySelector('#game'),ctx=canvas.getContext('2d');
-const $=s=>document.querySelector(s);const maxHealth=5;let milestones=[],W=0,H=0,dpr=1,state='ready',lane=1,visualLane=1,elapsed=0,score=0,health=maxHealth,last=0,spawn=0,objects=[],seen=new Set(),sound=false,audio=null,flash=0,shake=0,passed=0;
+const $=s=>document.querySelector(s);const maxHealth=3;let milestones=[],W=0,H=0,dpr=1,state='ready',lane=1,visualLane=1,elapsed=0,score=0,health=maxHealth,last=0,spawn=0,objects=[],seen=new Set(),sound=false,audio=null,flash=0,shake=0,passed=0;
 let spaceTime=0,spaceX=0,spaceMomentum=0,spin=0,spacePickups=[],fragments=[],spaceBonus=0,pausedFrom='playing',endedInSpace=false;
 let cardSchedule=[],currentRoute=0,routeCount=2,archivePaused=false,runNumber=0;
 let pro=false,driveX=0,steerVelocity=0,steerKeys=new Set(),pointerDown=false,particles=[],combo=0,comboClock=0,invulnerable=0,enginePhase=0;
