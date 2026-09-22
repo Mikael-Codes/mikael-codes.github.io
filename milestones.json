@@ -116,5 +116,19 @@
  {"date":"2026-07-30","title":"Gemini Robotics 2 adds whole-body robot control","category":"ROBOTICS","url":"https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"},
  {"date":"2026-08-27","title":"DeepMind pilots double-blind frontier-model evaluations","category":"EVALUATION","url":"https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"},
  {"date":"2026-09-06","title":"OpenAI reports reaching its automated research-intern goal","category":"RESEARCH","url":"https://openai.com/index/research-acceleration-view-inside-openai/"},
- {"date":"2026-09-08","title":"OpenAI publishes a claimed Navier–Stokes resolution","category":"MATH","url":"https://openai.com/index/navier-stokes-solution/"}
+ {"date":"2026-09-08","title":"OpenAI publishes a claimed Navier–Stokes resolution","category":"MATH","url":"https://openai.com/index/navier-stokes-solution/"},
+ {"date":"2014-11-17","title":"Show and Tell generates captions for images","category":"VISION","url":"https://arxiv.org/abs/1411.4555"},
+ {"date":"2015-02-25","title":"Deep Q-network reaches human-level Atari control","category":"AGENTS","url":"https://www.nature.com/articles/nature14236"},
+ {"date":"2015-06-18","title":"DeepDream reveals the patterns learned by vision networks","category":"VISION","url":"https://research.google/blog/inceptionism-going-deeper-into-neural-networks/"},
+ {"date":"2015-11-09","title":"TensorFlow opens Google's machine-learning tools","category":"OPEN TOOLS","url":"https://research.google/blog/tensorflow-googles-latest-machine-learning-system-open-sourced-for-everyone/"},
+ {"date":"2016-04-27","title":"OpenAI Gym makes reinforcement learning comparable","category":"AGENTS","url":"https://openai.com/index/openai-gym-beta/"},
+ {"date":"2016-09-08","title":"WaveNet generates speech as raw audio","category":"VOICE","url":"https://deepmind.google/blog/wavenet-a-generative-model-for-raw-audio/"},
+ {"date":"2016-09-27","title":"Google Neural Machine Translation enters production","category":"LANGUAGE","url":"https://research.google/blog/a-neural-network-for-machine-translation-at-production-scale/"},
+ {"date":"2016-12-05","title":"Universe lets agents train across games and websites","category":"AGENTS","url":"https://openai.com/index/universe/"},
+ {"date":"2017-03-13","title":"Elastic weight consolidation helps networks remember old tasks","category":"RESEARCH","url":"https://deepmind.google/blog/enabling-continual-learning-in-neural-networks/"},
+ {"date":"2017-10-04","title":"WaveNet voices launch in Google Assistant","category":"VOICE","url":"https://deepmind.google/blog/wavenet-launches-in-the-google-assistant/"},
+ {"date":"2018-07-30","title":"Dactyl learns dexterous robot-hand control in simulation","category":"ROBOTICS","url":"https://openai.com/index/learning-dexterity/"},
+ {"date":"2018-12-02","title":"First AlphaFold tops CASP13 protein prediction","category":"SCIENCE","url":"https://deepmind.google/science/alphafold/"},
+ {"date":"2019-10-15","title":"Robot hand solves a Rubik's Cube","category":"ROBOTICS","url":"https://openai.com/index/solving-rubiks-cube/"},
+ {"date":"2020-12-23","title":"MuZero masters games without being given their rules","category":"REASONING","url":"https://deepmind.google/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules/"}
 ]
